@@ -1,16 +1,18 @@
-## Hi there 👋
+![image]([https://i.imgur.com/rHHJkTv.jpeg](https://imgur.com/a/9jcPHHk)) 
 
-<!--
-**SrDlleon/srdlleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey there 👋
 
-Here are some ideas to get you started:
+Eai, eu sou Davi Dlleon, estudante informática para internet, no IFRN.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🗺️ Resido em Caicó, RN.
+- 👨🏽‍💻 Tenho facilidade em trabalhar com o backend, prototipação, UI, documentação, resoluções criativas.
+- 🎨 Ás vezes escrevo historias.
+
+## Developer
+
+### Linguagens que atualmente estudo
+[![Programming Languages](https://skillicons.dev/icons?i=py,java,mysql,html,css,js)](https://skillicons.dev)
+⠀
+### Ferramentas que atualmente estudo
+[![Tools and extras](https://skillicons.dev/icons?i=figma,notion,obsidian,linux,git,github,flask,django)](https://skillicons.dev)
+
