@@ -1,4 +1,4 @@
-![image]([https://imgur.com/a/9jcPHHk](https://imgur.com/gallery/banner-9jcPHHk))
+![banner](https://i.imgur.com/gQEG4O6.png)
 
 ### Hey there 👋
 
