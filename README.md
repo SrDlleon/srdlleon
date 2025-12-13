@@ -1,11 +1,11 @@
-![image]([https://i.imgur.com/rHHJkTv.jpeg](https://imgur.com/a/9jcPHHk)) 
+![image]((https://imgur.com/a/9jcPHHk)) 
 
 ### Hey there 👋
 
 Eai, eu sou Davi Dlleon, estudante informática para internet, no IFRN.
 
 - 🗺️ Resido em Caicó, RN.
-- 👨🏽‍💻 Tenho facilidade em trabalhar com o backend, prototipação, UI, documentação, resoluções criativas.
+- 👨🏽‍💻 Tenho facilidade em com o back-end, prototipação, UI, documentação, resoluções criativas.
 - 🎨 Ás vezes escrevo historias.
 
 ## Developer
