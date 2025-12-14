@@ -2,10 +2,10 @@
 
 ### Hey there 👋
 
-Eai, eu sou Davi Dlleon, estudante informática para internet, no IFRN.
+Eai! Eu sou Davi Dlleon, estudante informática para internet, no IFRN.
 
 - 🗺️ Resido em Caicó, RN.
-- 👨🏽‍💻 Tenho facilidade em com o back-end, prototipação, UI, documentação, resoluções criativas.
+- 👨🏽‍💻 Tenho facilidade com o back-end, prototipação, UI, documentação, resoluções criativas.
 - 🎨 Ás vezes escrevo historias.
 
 ## Developer
